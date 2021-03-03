@@ -1,0 +1,23 @@
+{
+  "header": {
+    "topbar": {
+      "blog": "blog",
+      "trackOrder": "trackOrder",
+      "storeLocation": "Store Location",
+      "contacts": "Contacts",
+      "aboutUs": "About Us",
+      
+      "account": {
+        "account": "Account",
+        "dashboard": "Dashboard",
+        "editProfile": "Edit Profile",
+        "orderHistory": "History",
+        "addresses": "Addresses",
+        "password": "Password",
+        "logout": "Logout"
+      },
+      "currency": "Currency",
+      "language": "Language"
+    }
+  }
+}

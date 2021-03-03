@@ -1,0 +1,23 @@
+{
+  "header": {
+    "topbar": {
+      "blog": "Блог",
+      "trackOrder": "Отслеживание",
+      "storeLocation": "Местоположение",
+      "contacts": "Контакты",
+      "aboutUs": "О нас",
+      
+      "account": {
+        "account": "Учетная запись",
+        "dashboard": "Управление",
+        "editProfile": "Профиль",
+        "orderHistory": "История",
+        "addresses": "Адреса",
+        "password": "Пароль",
+        "logout": "Выход"
+      },
+      "currency": "Валюта",
+      "language": "Язык"
+    }
+  }
+}
